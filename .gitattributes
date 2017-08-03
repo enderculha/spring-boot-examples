@@ -1,3 +1,4 @@
 
 static/* linguist-vendored
 static/* *.idea
+*.xml linguist-language=Java
